@@ -1,0 +1,1179 @@
+{
+ "generated": "2026-11-22T13:35:37.643Z",
+ "note": "All assets downloaded read-only from the live site alraifood.com. Copyright remains with Al-Rai Food Industries. Not modified (no packaging edits).",
+ "assets": [
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/01/logo.png",
+   "local": "public/assets/brand/alrai-logo.png",
+   "kind": "logo",
+   "describes": "Al-Rai Food Industries primary logo (header)",
+   "usedOn": [
+    "all pages"
+   ],
+   "status": 200,
+   "bytes": 7391,
+   "contentType": "image/png",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/01/logo-1.png",
+   "local": "public/assets/brand/alrai-logo-alt.png",
+   "kind": "logo",
+   "describes": "Logo variant uploaded to media library (logo-1.png)",
+   "usedOn": [
+    "media library"
+   ],
+   "status": 200,
+   "bytes": 7391,
+   "contentType": "image/png",
+   "usedInRedesign": false
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/06/بنر-حمص-2.jpg",
+   "local": "public/assets/banners/banner-hummus.jpg",
+   "kind": "hero-banner",
+   "describes": "Home slider banner: hummus",
+   "usedOn": [
+    "/",
+    "/en/"
+   ],
+   "status": 200,
+   "bytes": 472034,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/06/بنر-شراب-الكرز-1.jpg",
+   "local": "public/assets/banners/banner-cherry-drink.jpg",
+   "kind": "hero-banner",
+   "describes": "Home slider banner: cherry drink",
+   "usedOn": [
+    "/",
+    "/en/"
+   ],
+   "status": 200,
+   "bytes": 456528,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/10/بنر-كوفي-لاتيه.jpg",
+   "local": "public/assets/banners/banner-coffee-latte.jpg",
+   "kind": "hero-banner",
+   "describes": "Home slider banner: coffee latte",
+   "usedOn": [
+    "/",
+    "/en/"
+   ],
+   "status": 200,
+   "bytes": 460670,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/01/main-banner.jpg",
+   "local": "public/assets/banners/main-banner.jpg",
+   "kind": "hero-banner",
+   "describes": "Earlier main banner in media library",
+   "usedOn": [
+    "media library"
+   ],
+   "status": 200,
+   "bytes": 236369,
+   "contentType": "image/jpeg",
+   "usedInRedesign": false
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/01/main-banner-1.jpg",
+   "local": "public/assets/banners/main-banner-1.jpg",
+   "kind": "hero-banner",
+   "describes": "Earlier main banner variant in media library",
+   "usedOn": [
+    "media library"
+   ],
+   "status": 200,
+   "bytes": 236369,
+   "contentType": "image/jpeg",
+   "usedInRedesign": false
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/01/1.jpg",
+   "local": "public/assets/about/about-1.jpg",
+   "kind": "about-photo",
+   "describes": "About section image 1 (portrait)",
+   "usedOn": [
+    "/",
+    "/من-نحن/"
+   ],
+   "status": 200,
+   "bytes": 38808,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/01/2.jpg",
+   "local": "public/assets/about/about-2.jpg",
+   "kind": "about-photo",
+   "describes": "About section image 2 (portrait)",
+   "usedOn": [
+    "/",
+    "/من-نحن/"
+   ],
+   "status": 200,
+   "bytes": 38449,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/01/1-2.jpg",
+   "local": "public/assets/about/about-landscape.jpg",
+   "kind": "about-photo",
+   "describes": "About page image (landscape)",
+   "usedOn": [
+    "/en/about-us/"
+   ],
+   "status": 200,
+   "bytes": 81559,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/07/tetra-pak-coffee.jpg",
+   "local": "public/assets/about/tetra-pak-coffee.jpg",
+   "kind": "about-photo",
+   "describes": "About page image (coffee latte packs)",
+   "usedOn": [
+    "/من-نحن/"
+   ],
+   "status": 200,
+   "bytes": 759478,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/01/1-1.png",
+   "local": "public/assets/branches/branches-map.png",
+   "kind": "illustration",
+   "describes": "Branches section image",
+   "usedOn": [
+    "/",
+    "/فروعنا/"
+   ],
+   "status": 200,
+   "bytes": 80066,
+   "contentType": "image/png",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/01/3.jpg",
+   "local": "public/assets/recipes/lentil-soup-with-cream.jpg",
+   "kind": "recipe-photo",
+   "describes": "Recipe: lentil soup with cream (featured media 61)",
+   "usedOn": [
+    "/recipe/شوربة-العدس-بالكريمة/"
+   ],
+   "status": 200,
+   "bytes": 25423,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/01/2-1.jpg",
+   "local": "public/assets/recipes/yogurt-apple-cake.jpg",
+   "kind": "recipe-photo",
+   "describes": "Recipe: yogurt apple cake (featured media 59)",
+   "usedOn": [
+    "/recipe/كيك-الزبادي-بالتفاح/"
+   ],
+   "status": 200,
+   "bytes": 42084,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/01/1-1.jpg",
+   "local": "public/assets/recipes/oat-cookies.jpg",
+   "kind": "recipe-photo",
+   "describes": "Recipe: oat cookies (featured media 57)",
+   "usedOn": [
+    "/recipe/بسكويت-الشوفان/"
+   ],
+   "status": 200,
+   "bytes": 46649,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/04/alrai.jpg",
+   "local": "public/assets/brands/alrai.jpg",
+   "kind": "brand-logo",
+   "describes": "Brand logo (file alrai.jpg)",
+   "usedOn": [
+    "/العلامات-التجارية/"
+   ],
+   "status": 200,
+   "bytes": 21250,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/04/lunait.jpg",
+   "local": "public/assets/brands/lunait.jpg",
+   "kind": "brand-logo",
+   "describes": "Brand logo (file lunait.jpg)",
+   "usedOn": [
+    "/العلامات-التجارية/"
+   ],
+   "status": 200,
+   "bytes": 40850,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/04/fwakeh.jpg",
+   "local": "public/assets/brands/fwakeh.jpg",
+   "kind": "brand-logo",
+   "describes": "Brand logo (file fwakeh.jpg)",
+   "usedOn": [
+    "/العلامات-التجارية/"
+   ],
+   "status": 200,
+   "bytes": 35519,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/04/raioo.jpg",
+   "local": "public/assets/brands/raioo.jpg",
+   "kind": "brand-logo",
+   "describes": "Brand logo AR (file raioo.jpg)",
+   "usedOn": [
+    "/العلامات-التجارية/"
+   ],
+   "status": 200,
+   "bytes": 23096,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/04/alora.jpg",
+   "local": "public/assets/brands/alora.jpg",
+   "kind": "brand-logo",
+   "describes": "Brand logo AR (file alora.jpg)",
+   "usedOn": [
+    "/العلامات-التجارية/"
+   ],
+   "status": 200,
+   "bytes": 22019,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/04/r-zero.jpg",
+   "local": "public/assets/brands/r-zero.jpg",
+   "kind": "brand-logo",
+   "describes": "Brand logo (file r-zero.jpg)",
+   "usedOn": [
+    "/العلامات-التجارية/"
+   ],
+   "status": 200,
+   "bytes": 10093,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/04/raioo-en.jpg",
+   "local": "public/assets/brands/raioo-en.jpg",
+   "kind": "brand-logo",
+   "describes": "Brand logo EN (file raioo-en.jpg)",
+   "usedOn": [
+    "/en/brands/"
+   ],
+   "status": 200,
+   "bytes": 23306,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/04/alora-en.jpg",
+   "local": "public/assets/brands/alora-en.jpg",
+   "kind": "brand-logo",
+   "describes": "Brand logo EN (file alora-en.jpg)",
+   "usedOn": [
+    "/en/brands/"
+   ],
+   "status": 200,
+   "bytes": 22154,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/01/1.png",
+   "local": "public/assets/misc/cutout-1.png",
+   "kind": "product-cutout",
+   "describes": "Small product cutout 1.png (EN home / legacy milk)",
+   "usedOn": [
+    "/en/"
+   ],
+   "status": 200,
+   "bytes": 46952,
+   "contentType": "image/png",
+   "usedInRedesign": false
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/01/2.png",
+   "local": "public/assets/misc/cutout-2.png",
+   "kind": "product-cutout",
+   "describes": "Small product cutout 2.png",
+   "usedOn": [
+    "/en/"
+   ],
+   "status": 200,
+   "bytes": 38471,
+   "contentType": "image/png",
+   "usedInRedesign": false
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/01/3.png",
+   "local": "public/assets/misc/cutout-3.png",
+   "kind": "product-cutout",
+   "describes": "Small product cutout 3.png",
+   "usedOn": [
+    "media library"
+   ],
+   "status": 200,
+   "bytes": 41646,
+   "contentType": "image/png",
+   "usedInRedesign": false
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/01/4.png",
+   "local": "public/assets/misc/cutout-4.png",
+   "kind": "product-cutout",
+   "describes": "Small product cutout 4.png",
+   "usedOn": [
+    "/en/"
+   ],
+   "status": 200,
+   "bytes": 41002,
+   "contentType": "image/png",
+   "usedInRedesign": false
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/05/حمص.jpg",
+   "local": "public/assets/misc/hummus-cutout.jpg",
+   "kind": "product-cutout",
+   "describes": "Hummus tall image (media 371)",
+   "usedOn": [
+    "media library"
+   ],
+   "status": 200,
+   "bytes": 321407,
+   "contentType": "image/jpeg",
+   "usedInRedesign": false
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/01/لبن-180-مل.jpg",
+   "local": "public/assets/misc/laban-180ml-square.jpg",
+   "kind": "product-packshot",
+   "describes": "Laban 180 ml square packshot (media 379)",
+   "usedOn": [
+    "media library"
+   ],
+   "status": 200,
+   "bytes": 242783,
+   "contentType": "image/jpeg",
+   "usedInRedesign": false
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/08/معجون-طماطم.jpg",
+   "local": "public/assets/misc/tomato-paste-2026.jpg",
+   "kind": "product-packshot",
+   "describes": "Tomato paste packshot uploaded 2026-08 (unattached)",
+   "usedOn": [
+    "media library"
+   ],
+   "status": 200,
+   "bytes": 171953,
+   "contentType": "image/jpeg",
+   "usedInRedesign": false
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-حلوى-القطن2.jpg",
+   "local": "public/assets/misc/ice-cream-mix-cotton-candy-alt.jpg",
+   "kind": "product-packshot",
+   "describes": "Cotton candy mix alternate packshot (media 537)",
+   "usedOn": [
+    "media library"
+   ],
+   "status": 200,
+   "bytes": 145564,
+   "contentType": "image/jpeg",
+   "usedInRedesign": false
+  },
+  {
+   "src": "https://alraifood.com/wp-content/themes/alrai/images/header-shape.png",
+   "local": "public/assets/brand/header-shape.png",
+   "kind": "theme-graphic",
+   "describes": "Theme header decorative shape",
+   "usedOn": [
+    "theme css"
+   ],
+   "status": 200,
+   "bytes": 1266,
+   "contentType": "image/png",
+   "usedInRedesign": false
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/حليب-كامل-الدسم-1-لتر.jpg",
+   "local": "public/assets/products/full-fat-milk-1l.jpg",
+   "kind": "product-packshot",
+   "describes": "حليب كامل الدسم 1 لتر",
+   "usedOn": [
+    "https://alraifood.com/product/حليب-كامل-الدسم-1-لتر-5/"
+   ],
+   "status": 200,
+   "bytes": 153826,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/حليب-كامل-الدسم-125-مل.jpg",
+   "local": "public/assets/products/full-fat-milk-125ml.jpg",
+   "kind": "product-packshot",
+   "describes": "حليب كامل الدسم 125 مل",
+   "usedOn": [
+    "https://alraifood.com/product/حليب-كامل-الدسم-125-مل/"
+   ],
+   "status": 200,
+   "bytes": 141030,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/حليب-كامل-الدسم-200-مل.jpg",
+   "local": "public/assets/products/full-fat-milk-200ml.jpg",
+   "kind": "product-packshot",
+   "describes": "حليب كامل الدسم 200 مل",
+   "usedOn": [
+    "https://alraifood.com/product/حليب-كامل-الدسم-200-مل/"
+   ],
+   "status": 200,
+   "bytes": 120996,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/05/حمص-135-جم.jpg",
+   "local": "public/assets/products/hummus-135g.jpg",
+   "kind": "product-packshot",
+   "describes": "حمص 135 جم",
+   "usedOn": [
+    "https://alraifood.com/product/حمص/"
+   ],
+   "status": 200,
+   "bytes": 160481,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/10/قشطة-1-لتر.jpg",
+   "local": "public/assets/products/qishta-1l.jpg",
+   "kind": "product-packshot",
+   "describes": "قشطة 1 لتر",
+   "usedOn": [
+    "https://alraifood.com/product/قشطة-1-لتر/"
+   ],
+   "status": 200,
+   "bytes": 209973,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/10/قشطة-125-مل.jpg",
+   "local": "public/assets/products/qishta-125ml.jpg",
+   "kind": "product-packshot",
+   "describes": "قشطة 125 مل",
+   "usedOn": [
+    "https://alraifood.com/product/قشطة-125-مل/"
+   ],
+   "status": 200,
+   "bytes": 213380,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/10/قشطة-250-مل.jpg",
+   "local": "public/assets/products/qishta-250ml.jpg",
+   "kind": "product-packshot",
+   "describes": "قشطة 250 مل",
+   "usedOn": [
+    "https://alraifood.com/product/قشطة-250-مل/"
+   ],
+   "status": 200,
+   "bytes": 216602,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/08/كاتشب-5-كغ.jpg",
+   "local": "public/assets/products/ketchup-5kg.jpg",
+   "kind": "product-packshot",
+   "describes": "كاتشب 5 كغ",
+   "usedOn": [
+    "https://alraifood.com/product/كاتشب-5-كغ/"
+   ],
+   "status": 200,
+   "bytes": 165771,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/كريمة-الطبخ-الفرنسية-1-لتر.jpg",
+   "local": "public/assets/products/french-cooking-cream-1l.jpg",
+   "kind": "product-packshot",
+   "describes": "كريمة الطبخ الفرنسية 1 لتر",
+   "usedOn": [
+    "https://alraifood.com/product/كريمة-الطبخ-الفرنسية-1-لتر/"
+   ],
+   "status": 200,
+   "bytes": 234978,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/كريمة-الطبخ-الفرنسية-250-مل.jpg",
+   "local": "public/assets/products/french-cooking-cream-250ml.jpg",
+   "kind": "product-packshot",
+   "describes": "كريمة الطبخ الفرنسية 250 مل",
+   "usedOn": [
+    "https://alraifood.com/product/كريمة-الطبخ-الفرنسية-250-مل/"
+   ],
+   "status": 200,
+   "bytes": 226351,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/كريمة-الطبخ-الفرنسية-500-مل.jpg",
+   "local": "public/assets/products/french-cooking-cream-500ml.jpg",
+   "kind": "product-packshot",
+   "describes": "كريمة الطبخ الفرنسية 500 مل",
+   "usedOn": [
+    "https://alraifood.com/product/كريمة-الطبخ-الفرنسية-500-مل/"
+   ],
+   "status": 200,
+   "bytes": 245295,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/كريمة-الطبخ-باستا-1-لتر.jpg",
+   "local": "public/assets/products/pasta-cooking-cream-1l.jpg",
+   "kind": "product-packshot",
+   "describes": "كريمة الطبخ باستا 1 لتر",
+   "usedOn": [
+    "https://alraifood.com/product/كريمة-الطبخ-باستا-1-لتر/"
+   ],
+   "status": 200,
+   "bytes": 180077,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/كريمة-الطبخ-باستا-250-مل.jpg",
+   "local": "public/assets/products/pasta-cooking-cream-250ml.jpg",
+   "kind": "product-packshot",
+   "describes": "كريمة الطبخ باستا 250 مل",
+   "usedOn": [
+    "https://alraifood.com/product/كريمة-الطبخ-باستا-250-مل/"
+   ],
+   "status": 200,
+   "bytes": 172374,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/كريمة-الطبخ-باستا-500-مل.jpg",
+   "local": "public/assets/products/pasta-cooking-cream-500ml.jpg",
+   "kind": "product-packshot",
+   "describes": "كريمة الطبخ باستا 500 مل",
+   "usedOn": [
+    "https://alraifood.com/product/كريمة-الطبخ-باستا-500-مل/"
+   ],
+   "status": 200,
+   "bytes": 182588,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/07/كوفي-لاتيه-أورجينال-250-مل.jpg",
+   "local": "public/assets/products/coffee-latte-original-250ml.jpg",
+   "kind": "product-packshot",
+   "describes": "كوفي لاتيه أورجينال 250 مل",
+   "usedOn": [
+    "https://alraifood.com/product/كوفي-لاتيه-أورجينال-250-مل/"
+   ],
+   "status": 200,
+   "bytes": 140272,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/07/كوفي-لاتيه-بندق-و-فانيلا-250-مل.jpg",
+   "local": "public/assets/products/coffee-latte-hazelnut-vanilla-250ml.jpg",
+   "kind": "product-packshot",
+   "describes": "كوفي لاتيه بندق و فانيلا 250 مل",
+   "usedOn": [
+    "https://alraifood.com/product/كوفي-لاتيه-بندق-و-فانيلا-250-مل/"
+   ],
+   "status": 200,
+   "bytes": 143060,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/07/كوفي-لاتيه-فانيلا-250-مل.jpg",
+   "local": "public/assets/products/coffee-latte-vanilla-250ml.jpg",
+   "kind": "product-packshot",
+   "describes": "كوفي لاتيه فانيلا 250 مل",
+   "usedOn": [
+    "https://alraifood.com/product/كوفي-لاتيه-فانيلا-250-مل/"
+   ],
+   "status": 200,
+   "bytes": 140302,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/07/كوفي-لاتيه-فستق-250-مل.jpg",
+   "local": "public/assets/products/coffee-latte-pistachio-250ml.jpg",
+   "kind": "product-packshot",
+   "describes": "كوفي لاتيه فستق 250 مل",
+   "usedOn": [
+    "https://alraifood.com/product/كوفي-لاتيه-فستق-250-مل/"
+   ],
+   "status": 200,
+   "bytes": 139782,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/07/كوفي-لاتيه-كراميل-250-مل.jpg",
+   "local": "public/assets/products/coffee-latte-caramel-250ml.jpg",
+   "kind": "product-packshot",
+   "describes": "كوفي لاتيه كراميل 250 مل",
+   "usedOn": [
+    "https://alraifood.com/product/كوفي-لاتيه-كراميل-250-مل/"
+   ],
+   "status": 200,
+   "bytes": 140751,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/07/كوفي-لاتيه-موكا-250-مل.jpg",
+   "local": "public/assets/products/coffee-latte-mocha-250ml.jpg",
+   "kind": "product-packshot",
+   "describes": "كوفي لاتيه موكا 250 مل",
+   "usedOn": [
+    "https://alraifood.com/product/كوفي-لاتيه-موكا-250-مل/"
+   ],
+   "status": 200,
+   "bytes": 137383,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/06/لبن-بالزبدة-450-مل-1.jpg",
+   "local": "public/assets/products/laban-with-butter-450ml.jpg",
+   "kind": "product-packshot",
+   "describes": "لبن بالزبدة 450 مل",
+   "usedOn": [
+    "https://alraifood.com/product/لبن-بالزبدة-450-مل/"
+   ],
+   "status": 200,
+   "bytes": 351251,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/06/لبن-بالزبدة-900-مل-1.jpg",
+   "local": "public/assets/products/laban-with-butter-900ml.jpg",
+   "kind": "product-packshot",
+   "describes": "لبن بالزبدة 900 مل",
+   "usedOn": [
+    "https://alraifood.com/product/لبن-بالزبدة-900-مل/"
+   ],
+   "status": 200,
+   "bytes": 348743,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/01/لبن-180-مل.png",
+   "local": "public/assets/products/laban-180ml.png",
+   "kind": "product-packshot",
+   "describes": "لبن 180 مل",
+   "usedOn": [
+    "https://alraifood.com/product/لبن-180-مل/"
+   ],
+   "status": 200,
+   "bytes": 331127,
+   "contentType": "image/png",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-البطيخ-الأصفر.jpg",
+   "local": "public/assets/products/ice-cream-mix-yellow-melon.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم البطيخ الأصفر",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-البطيخ-الأصفر/"
+   ],
+   "status": 200,
+   "bytes": 146579,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-البطيخ.jpg",
+   "local": "public/assets/products/ice-cream-mix-watermelon.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم البطيخ",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-البطيخ/"
+   ],
+   "status": 200,
+   "bytes": 157979,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-البندق.jpg",
+   "local": "public/assets/products/ice-cream-mix-hazelnut.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم البندق",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-البندق/"
+   ],
+   "status": 200,
+   "bytes": 152461,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-التوت.jpg",
+   "local": "public/assets/products/ice-cream-mix-berry.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم التوت",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-التوت/"
+   ],
+   "status": 200,
+   "bytes": 163853,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-الزعفران.jpg",
+   "local": "public/assets/products/ice-cream-mix-saffron.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم الزعفران",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-الزعفران/"
+   ],
+   "status": 200,
+   "bytes": 141163,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-الفانيليا-السوداء.jpg",
+   "local": "public/assets/products/ice-cream-mix-black-vanilla.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم الفانيليا السوداء",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-الفانيليا-السوداء/"
+   ],
+   "status": 200,
+   "bytes": 160078,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-الفستق.jpg",
+   "local": "public/assets/products/ice-cream-mix-pistachio.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم الفستق",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-الفستق/"
+   ],
+   "status": 200,
+   "bytes": 155623,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-المانجو.jpg",
+   "local": "public/assets/products/ice-cream-mix-mango.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم المانجو",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-المانجو/"
+   ],
+   "status": 200,
+   "bytes": 146610,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-بترسكوتش.jpg",
+   "local": "public/assets/products/ice-cream-mix-butterscotch.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم بترسكوتش",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-بترسكوتش/"
+   ],
+   "status": 200,
+   "bytes": 153749,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-بسكويت.jpg",
+   "local": "public/assets/products/ice-cream-mix-biscuit.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم بسكويت",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-بسكويت/"
+   ],
+   "status": 200,
+   "bytes": 166608,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-بوظة-عربية.jpg",
+   "local": "public/assets/products/ice-cream-mix-arabic-booza.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم بوظة عربية",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-بوظة-عربية/"
+   ],
+   "status": 200,
+   "bytes": 127497,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-تشيزكيك.jpg",
+   "local": "public/assets/products/ice-cream-mix-cheesecake.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم تشيزكيك",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-تشيزكيك/"
+   ],
+   "status": 200,
+   "bytes": 130022,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-تيراميسو.jpg",
+   "local": "public/assets/products/ice-cream-mix-tiramisu.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم تيراميسو",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-تيراميسو/"
+   ],
+   "status": 200,
+   "bytes": 158350,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-حلوى-القطن2-1.jpg",
+   "local": "public/assets/products/ice-cream-mix-cotton-candy-2.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم حلوى القطن",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-حلوى-القطن-2/"
+   ],
+   "status": 200,
+   "bytes": 145564,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-حلوى-القطن1.jpg",
+   "local": "public/assets/products/ice-cream-mix-cotton-candy.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم حلوى القطن",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-حلوى-القطن/"
+   ],
+   "status": 200,
+   "bytes": 156367,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-ريد-بيري.jpg",
+   "local": "public/assets/products/ice-cream-mix-red-berry.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم ريد بيري",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-ريد-بيري/"
+   ],
+   "status": 200,
+   "bytes": 162635,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-ريد-فلفت.jpg",
+   "local": "public/assets/products/ice-cream-mix-red-velvet.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم ريد فلفت",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-ريد-فلفت/"
+   ],
+   "status": 200,
+   "bytes": 160140,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-شوكولاتة.jpg",
+   "local": "public/assets/products/ice-cream-mix-chocolate.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم شوكولاتة",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-شوكولاتة/"
+   ],
+   "status": 200,
+   "bytes": 151457,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-فانيلا.jpg",
+   "local": "public/assets/products/ice-cream-mix-vanilla.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم فانيلا",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-فانيلا/"
+   ],
+   "status": 200,
+   "bytes": 119624,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-فراولة.jpg",
+   "local": "public/assets/products/ice-cream-mix-strawberry.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم فراولة",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-فراولة/"
+   ],
+   "status": 200,
+   "bytes": 146743,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-قهوة-سعودية.jpg",
+   "local": "public/assets/products/ice-cream-mix-saudi-coffee.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم قهوة سعودية",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-قهوة-سعودية/"
+   ],
+   "status": 200,
+   "bytes": 151420,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-قهوة.jpg",
+   "local": "public/assets/products/ice-cream-mix-coffee.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم قهوة",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-قهوة/"
+   ],
+   "status": 200,
+   "bytes": 162340,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-كراميل.jpg",
+   "local": "public/assets/products/ice-cream-mix-caramel.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم كراميل",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-كراميل/"
+   ],
+   "status": 200,
+   "bytes": 154723,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-كوكيز.jpg",
+   "local": "public/assets/products/ice-cream-mix-cookies.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم كوكيز",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-كوكيز/"
+   ],
+   "status": 200,
+   "bytes": 155515,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/مزيج-آيس-كريم-مستكا.jpg",
+   "local": "public/assets/products/ice-cream-mix-mastic.jpg",
+   "kind": "product-packshot",
+   "describes": "مزيج آيس كريم مستكا",
+   "usedOn": [
+    "https://alraifood.com/product/مزيج-آيس-كريم-مستكا/"
+   ],
+   "status": 200,
+   "bytes": 137247,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/06/معجون-طماطم-1.jpg",
+   "local": "public/assets/products/tomato-paste.jpg",
+   "kind": "product-packshot",
+   "describes": "معجون طماطم",
+   "usedOn": [
+    "https://alraifood.com/product/معجون-طماطم/"
+   ],
+   "status": 200,
+   "bytes": 171953,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/08/نكتار-الأناناس-200-مل.jpg",
+   "local": "public/assets/products/pineapple-nectar-200ml.jpg",
+   "kind": "product-packshot",
+   "describes": "نكتار الأناناس 200 مل",
+   "usedOn": [
+    "https://alraifood.com/product/نكتار-الأناناس-200-مل/"
+   ],
+   "status": 200,
+   "bytes": 158689,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/08/نكتار-البرتقال-200-مل.jpg",
+   "local": "public/assets/products/orange-nectar-200ml.jpg",
+   "kind": "product-packshot",
+   "describes": "نكتار البرتقال 200 مل",
+   "usedOn": [
+    "https://alraifood.com/product/نكتار-البرتقال-200-مل/"
+   ],
+   "status": 200,
+   "bytes": 157968,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/09/نكتار-التفاح-200-مل.jpg",
+   "local": "public/assets/products/apple-nectar-200ml.jpg",
+   "kind": "product-packshot",
+   "describes": "نكتار التفاح 200 مل",
+   "usedOn": [
+    "https://alraifood.com/product/نكتار-التفاح-200-مل/"
+   ],
+   "status": 200,
+   "bytes": 118536,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/09/نكتار-الكوكتيل-200-مل.jpg",
+   "local": "public/assets/products/cocktail-nectar-200ml.jpg",
+   "kind": "product-packshot",
+   "describes": "نكتار الكوكتيل 200 مل",
+   "usedOn": [
+    "https://alraifood.com/product/نكتار-الكوكتيل-200-مل/"
+   ],
+   "status": 200,
+   "bytes": 146510,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2025/09/نكتار-المانجو-200-مل.jpg",
+   "local": "public/assets/products/mango-nectar-200ml.jpg",
+   "kind": "product-packshot",
+   "describes": "نكتار المانجو 200 مل",
+   "usedOn": [
+    "https://alraifood.com/product/نكتار-المانجو-200-مل/"
+   ],
+   "status": 200,
+   "bytes": 116647,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  },
+  {
+   "src": "https://alraifood.com/wp-content/uploads/2026/05/هريس-الطماطم.jpg",
+   "local": "public/assets/products/tomato-puree.jpg",
+   "kind": "product-packshot",
+   "describes": "هريس الطماطم",
+   "usedOn": [
+    "https://alraifood.com/product/هريس-الطماطم/"
+   ],
+   "status": 200,
+   "bytes": 144252,
+   "contentType": "image/jpeg",
+   "usedInRedesign": true
+  }
+ ],
+ "derived": [
+  {
+   "local": "src/app/icon.png",
+   "from": "public/assets/banners/banner-coffee-latte.jpg",
+   "what": "Favicon 512x512: crop of the drop-and-leaf mark from the original banner logo, padded with sampled logo blue (#0054AE). No redraw."
+  },
+  {
+   "local": "src/app/apple-icon.png",
+   "from": "same crop",
+   "what": "Apple touch icon 180x180"
+  },
+  {
+   "local": "public/og/alrai-og.jpg",
+   "from": "public/assets/banners/banner-coffee-latte.jpg",
+   "what": "Open Graph image 1200x630: cover-crop (right-anchored) of the original banner."
+  }
+ ],
+ "notCopied": [
+  {
+   "src": "https://alraifood.com/wp-content/themes/alrai/fonts/bahij/*",
+   "reason": "Bahij TheSansArabic is a commercial font; licence for reuse not verifiable."
+  },
+  {
+   "src": "Font Awesome 6 Pro (theme)",
+   "reason": "Paid licence; replaced by an original icon set."
+  },
+  {
+   "src": "https://alraifood.com/wp-content/themes/alrai/images/tasawk.png",
+   "reason": "Previous agency credit, not part of the brand."
+  }
+ ],
+ "summary": {
+  "downloaded": 87,
+  "ok": 87,
+  "usedInRedesign": 75
+ }
+}

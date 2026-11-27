@@ -1,0 +1,74 @@
+[
+ {
+  "profile": "desktop",
+  "path": "/ar",
+  "lcp": 1052,
+  "cls": 0,
+  "lcpEl": "IMG ",
+  "ttfb": 64,
+  "transferKB": 1140
+ },
+ {
+  "profile": "desktop",
+  "path": "/en",
+  "lcp": 180,
+  "cls": 0,
+  "lcpEl": "IMG ",
+  "ttfb": 10,
+  "transferKB": 1074
+ },
+ {
+  "profile": "desktop",
+  "path": "/ar/products",
+  "lcp": 204,
+  "cls": 0,
+  "lcpEl": "IMG ",
+  "ttfb": 7,
+  "transferKB": 1090
+ },
+ {
+  "profile": "desktop",
+  "path": "/en/products/barista-cafe/coffee-latte-mocha-250ml",
+  "lcp": 156,
+  "cls": 0,
+  "lcpEl": "IMG ",
+  "ttfb": 29,
+  "transferKB": 935
+ },
+ {
+  "profile": "mobile-throttled",
+  "path": "/ar",
+  "lcp": 2140,
+  "cls": 0,
+  "lcpEl": "IMG ",
+  "ttfb": 151,
+  "transferKB": 1072
+ },
+ {
+  "profile": "mobile-throttled",
+  "path": "/en",
+  "lcp": 2128,
+  "cls": 0,
+  "lcpEl": "IMG ",
+  "ttfb": 152,
+  "transferKB": 1021
+ },
+ {
+  "profile": "mobile-throttled",
+  "path": "/ar/products",
+  "lcp": 2156,
+  "cls": 0,
+  "lcpEl": "IMG ",
+  "ttfb": 152,
+  "transferKB": 1026
+ },
+ {
+  "profile": "mobile-throttled",
+  "path": "/en/products/barista-cafe/coffee-latte-mocha-250ml",
+  "lcp": 1764,
+  "cls": 0,
+  "lcpEl": "IMG ",
+  "ttfb": 151,
+  "transferKB": 912
+ }
+]

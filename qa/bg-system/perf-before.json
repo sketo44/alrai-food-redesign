@@ -1,0 +1,74 @@
+[
+ {
+  "profile": "desktop",
+  "path": "/ar",
+  "lcp": 632,
+  "cls": 0,
+  "lcpEl": "H1 الري للصناعات الغذائية",
+  "ttfb": 5,
+  "transferKB": 953
+ },
+ {
+  "profile": "desktop",
+  "path": "/en",
+  "lcp": 136,
+  "cls": 0,
+  "lcpEl": "H1 AlRai Food Industries",
+  "ttfb": 4,
+  "transferKB": 887
+ },
+ {
+  "profile": "desktop",
+  "path": "/ar/products",
+  "lcp": 208,
+  "cls": 0,
+  "lcpEl": "IMG ",
+  "ttfb": 5,
+  "transferKB": 1010
+ },
+ {
+  "profile": "desktop",
+  "path": "/en/products/barista-cafe/coffee-latte-mocha-250ml",
+  "lcp": 128,
+  "cls": 0,
+  "lcpEl": "IMG ",
+  "ttfb": 4,
+  "transferKB": 854
+ },
+ {
+  "profile": "mobile-throttled",
+  "path": "/ar",
+  "lcp": 1184,
+  "cls": 0,
+  "lcpEl": "H1 الري للصناعات الغذائية",
+  "ttfb": 151,
+  "transferKB": 906
+ },
+ {
+  "profile": "mobile-throttled",
+  "path": "/en",
+  "lcp": 1212,
+  "cls": 0,
+  "lcpEl": "H1 AlRai Food Industries",
+  "ttfb": 151,
+  "transferKB": 855
+ },
+ {
+  "profile": "mobile-throttled",
+  "path": "/ar/products",
+  "lcp": 1908,
+  "cls": 0,
+  "lcpEl": "IMG ",
+  "ttfb": 151,
+  "transferKB": 942
+ },
+ {
+  "profile": "mobile-throttled",
+  "path": "/en/products/barista-cafe/coffee-latte-mocha-250ml",
+  "lcp": 1672,
+  "cls": 0,
+  "lcpEl": "IMG ",
+  "ttfb": 151,
+  "transferKB": 831
+ }
+]

@@ -1,0 +1,4165 @@
+[
+ {
+  "slug": "full-fat-milk-1l",
+  "category": "milk",
+  "alsoIn": [],
+  "name": {
+   "ar": "حليب كامل الدسم 1 لتر",
+   "en": "Full Fat Milk 1 L"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/full-fat-milk-1l.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/حليب-كامل-الدسم-1-لتر-5/"
+ },
+ {
+  "slug": "full-fat-milk-125ml",
+  "category": "milk",
+  "alsoIn": [],
+  "name": {
+   "ar": "حليب كامل الدسم 125 مل",
+   "en": "Full Fat Milk 125 ml"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "125 مل",
+   "en": "125 ml"
+  },
+  "image": "/assets/products/full-fat-milk-125ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/حليب-كامل-الدسم-125-مل/"
+ },
+ {
+  "slug": "full-fat-milk-200ml",
+  "category": "milk",
+  "alsoIn": [],
+  "name": {
+   "ar": "حليب كامل الدسم 200 مل",
+   "en": "Full Fat Milk 200 ml"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "200 مل",
+   "en": "200 ml"
+  },
+  "image": "/assets/products/full-fat-milk-200ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/حليب-كامل-الدسم-200-مل/"
+ },
+ {
+  "slug": "hummus-135g",
+  "category": "hummus",
+  "alsoIn": [],
+  "name": {
+   "ar": "حمص 135 جم",
+   "en": "Hummus 135 g"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "135 جم",
+   "en": "135 g"
+  },
+  "image": "/assets/products/hummus-135g.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "حمص 50%، طحينة (معجون السمسم) 27%، ماء نقي، ملح، حمض الستريك (إي 330)، ألياف الستريك."
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": "المعدل لكل 100مل",
+   "noteAr": "* نسبة الإحتياج اليومي مبني على نظام غذائي مكون من 2000 سعرة حرارية. قد تكون النسبة الخاصة بك أعلى او أقل حسب السعرات الحرارية التي تحتاجها.",
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "205 سعرة",
+      "en": "205 kcal"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "15 جم",
+      "en": "15 g"
+     },
+     "dv": "21%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "2.2 جم",
+      "en": "2.2 g"
+     },
+     "dv": "11%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "0 ملجم",
+      "en": "0 mg"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "375 ملجم",
+      "en": "375 mg"
+     },
+     "dv": "16%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "10.0 جم",
+      "en": "10.0 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "3.6 جم",
+      "en": "3.6 g"
+     },
+     "dv": "13%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "1.0 جم",
+      "en": "1.0 g"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "السكر المضاف",
+      "en": "Added sugars"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "6.0 جم",
+      "en": "6.0 g"
+     },
+     "dv": "12%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/حمص/"
+ },
+ {
+  "slug": "qishta-1l",
+  "category": "creams",
+  "alsoIn": [],
+  "name": {
+   "ar": "قشطة 1 لتر",
+   "en": "Qishta 1 L"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/qishta-1l.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء نقي، حليب بقري مجفف منزوع الدسم، حليب مجفف كامل الدسم، دسم حليب لامائي، زبدة حليب، مستحلب مسموح به: أحادي و ثنائي الجلسريد إي 471 (مصدر نباتي)، مثبتات: ألجينات الصوديوم (إي 401)، صمغ الغوار (إي 412)، كاراجينان (إي 407)، نشا معدل إي 1422، نكهة الكريمة المطابقة للطبيعية.",
+    "الحد الأدنى: 8% مواد حليبية صلبة لادهنية، 18% دسم حليب"
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": "حجم الحصة 100 مل",
+   "noteAr": "* نسبة الإحتياج اليومي مبني على نظام غذائي مكون من 2000 سعرة حرارية. قد تكون النسبة الخاصة بك أعلى او أقل حسب السعرات الحرارية التي تحتاجها.",
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "سعرة 200",
+      "en": "200 kcal"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "18 جم",
+      "en": "18 g"
+     },
+     "dv": "28%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "11 جم",
+      "en": "11 g"
+     },
+     "dv": "55%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "30 ملجم",
+      "en": "30 mg"
+     },
+     "dv": "10%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "50 ملجم",
+      "en": "50 mg"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "5.5 جم",
+      "en": "5.5 g"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "5.3 جم",
+      "en": "5.3 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "السكر المضاف",
+      "en": "Added sugars"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "3.9 جم",
+      "en": "3.9 g"
+     },
+     "dv": "8%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين أ",
+      "en": "Vitamin A"
+     },
+     "amount": {
+      "ar": "400 وحدة دولية",
+      "en": "400 IU"
+     },
+     "dv": "8%"
+    },
+    {
+     "label": {
+      "ar": "الكالسيوم",
+      "en": "Calcium"
+     },
+     "amount": {
+      "ar": "95 ملجم",
+      "en": "95 mg"
+     },
+     "dv": "10%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/قشطة-1-لتر/"
+ },
+ {
+  "slug": "qishta-125ml",
+  "category": "creams",
+  "alsoIn": [],
+  "name": {
+   "ar": "قشطة 125 مل",
+   "en": "Qishta 125 ml"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "125 مل",
+   "en": "125 ml"
+  },
+  "image": "/assets/products/qishta-125ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء منقى، حليب بقري مجفف منزوع الدسم، حليب مجفف كامل الدسم، دسم حليب لامائي، زبدة حليب، مستحلب مسموح به: أحادي و ثنائي الجلسريد إي 471 (مصدر نباتي)، مثبتات: ألجينات الصوديوم (إي 401)، صمغ الغوار (إي 412)، كاراجينان (إي 407)، نشا معدل إي 1422، ليسيتين عباد الشمس (إي 322)، نكهة الكريمة المطابقة للطبيعية.",
+    "الحد الأدنى: 8% مواد حليبية صلبة لادهنية، 18% دسم حليب"
+   ]
+  },
+  "nutrition": {
+   "status": "missing",
+   "servingAr": "حجم الحصة 100 مل",
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/قشطة-125-مل/"
+ },
+ {
+  "slug": "qishta-250ml",
+  "category": "creams",
+  "alsoIn": [],
+  "name": {
+   "ar": "قشطة 250 مل",
+   "en": "Qishta 250 ml"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "250 مل",
+   "en": "250 ml"
+  },
+  "image": "/assets/products/qishta-250ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء منقى، حليب بقري مجفف منزوع الدسم، حليب مجفف كامل الدسم، دسم حليب لامائي، زبدة حليب، مستحلب مسموح به: أحادي و ثنائي الجلسريد إي 471 (مصدر نباتي)، مثبتات: ألجينات الصوديوم (إي 401)، صمغ الغوار (إي 412)، كاراجينان (إي 407)، نشا معدل إي 1422، ليسيتين عباد الشمس (إي 322)، نكهة الكريمة المطابقة للطبيعية.",
+    "الحد الأدنى: 8% مواد حليبية صلبة لادهنية، 18% دسم حليب"
+   ]
+  },
+  "nutrition": {
+   "status": "missing",
+   "servingAr": "حجم الحصة 100 مل",
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/قشطة-250-مل/"
+ },
+ {
+  "slug": "ketchup-5kg",
+  "category": "other-products",
+  "alsoIn": [],
+  "name": {
+   "ar": "كاتشب 5 كغ",
+   "en": "Ketchup 5 kg"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "5 كغ",
+   "en": "5 kg"
+  },
+  "image": "/assets/products/ketchup-5kg.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء نقي، مركز معجون الطماطم، سكر، خل طبيعي، ملح، نشا ذرة، توابل، ثوم، بصل، بنزوات الصوديوم.",
+    "مواد صلبة حد أدنى 30%"
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": "حجم الحصة 17 جم",
+   "noteAr": null,
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "21 سعرة",
+      "en": "21 kcal"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "0 ملجم",
+      "en": "0 mg"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "138 ملجم",
+      "en": "138 mg"
+     },
+     "dv": "6%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "5.0 جم",
+      "en": "5.0 g"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "0.2 جم",
+      "en": "0.2 g"
+     },
+     "dv": "1%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "4.0 جم",
+      "en": "4.0 g"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "السكر المضاف",
+      "en": "Added sugars"
+     },
+     "amount": {
+      "ar": "3.8 جم",
+      "en": "3.8 g"
+     },
+     "dv": "7%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "0.2 جم",
+      "en": "0.2 g"
+     },
+     "dv": "0%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/كاتشب-5-كغ/"
+ },
+ {
+  "slug": "french-cooking-cream-1l",
+  "category": "creams",
+  "alsoIn": [],
+  "name": {
+   "ar": "كريمة الطبخ الفرنسية 1 لتر",
+   "en": "French Cooking Cream 1 L"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/french-cooking-cream-1l.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/كريمة-الطبخ-الفرنسية-1-لتر/"
+ },
+ {
+  "slug": "french-cooking-cream-250ml",
+  "category": "creams",
+  "alsoIn": [],
+  "name": {
+   "ar": "كريمة الطبخ الفرنسية 250 مل",
+   "en": "French Cooking Cream 250 ml"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "250 مل",
+   "en": "250 ml"
+  },
+  "image": "/assets/products/french-cooking-cream-250ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/كريمة-الطبخ-الفرنسية-250-مل/"
+ },
+ {
+  "slug": "french-cooking-cream-500ml",
+  "category": "creams",
+  "alsoIn": [],
+  "name": {
+   "ar": "كريمة الطبخ الفرنسية 500 مل",
+   "en": "French Cooking Cream 500 ml"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "500 مل",
+   "en": "500 ml"
+  },
+  "image": "/assets/products/french-cooking-cream-500ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/كريمة-الطبخ-الفرنسية-500-مل/"
+ },
+ {
+  "slug": "pasta-cooking-cream-1l",
+  "category": "creams",
+  "alsoIn": [],
+  "name": {
+   "ar": "كريمة الطبخ باستا 1 لتر",
+   "en": "Pasta Cooking Cream 1 L"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/pasta-cooking-cream-1l.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/كريمة-الطبخ-باستا-1-لتر/"
+ },
+ {
+  "slug": "pasta-cooking-cream-250ml",
+  "category": "creams",
+  "alsoIn": [],
+  "name": {
+   "ar": "كريمة الطبخ باستا 250 مل",
+   "en": "Pasta Cooking Cream 250 ml"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "250 مل",
+   "en": "250 ml"
+  },
+  "image": "/assets/products/pasta-cooking-cream-250ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/كريمة-الطبخ-باستا-250-مل/"
+ },
+ {
+  "slug": "pasta-cooking-cream-500ml",
+  "category": "creams",
+  "alsoIn": [],
+  "name": {
+   "ar": "كريمة الطبخ باستا 500 مل",
+   "en": "Pasta Cooking Cream 500 ml"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "500 مل",
+   "en": "500 ml"
+  },
+  "image": "/assets/products/pasta-cooking-cream-500ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/كريمة-الطبخ-باستا-500-مل/"
+ },
+ {
+  "slug": "coffee-latte-original-250ml",
+  "category": "barista-cafe",
+  "alsoIn": [],
+  "name": {
+   "ar": "كوفي لاتيه أورجينال 250 مل",
+   "en": "Coffee Latte Original 250 ml"
+  },
+  "nameEnSource": "flavour name printed in English on the pack and the Coffee Latte banner (checked visually)",
+  "size": {
+   "ar": "250 مل",
+   "en": "250 ml"
+  },
+  "image": "/assets/products/coffee-latte-original-250ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء نقي، حليب بقري مجفف كامل الدسم، سكر، دكستروز، مسحوق القهوة، مستحلب مسموح به: إي 471 (مصدر نباتي)، مثبتات: (إي 407، إي 412)، نكهة قهوة الاسبريسو المطابقة للطبيعية، فيتامين أ و د.",
+    "دسم حليب: حد ادنى 3.0٪، مواد صلبة لا دهنية حد أدنى 8.5٪",
+    "محتوى الحليب: (حد أدنى 90%)"
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": null,
+   "noteAr": "* نسبة الإحتياج اليومي مبني على نظام غذائي مكون من 2000 سعرة حرارية. قد تكون النسبة الخاصة بك أعلى او أقل حسب السعرات الحرارية التي تحتاجها.",
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "81 سعرة",
+      "en": "81 kcal"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "3.0 جم",
+      "en": "3.0 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "2.0 جم",
+      "en": "2.0 g"
+     },
+     "dv": "10%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "15 ملجم",
+      "en": "15 mg"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "50 ملجم",
+      "en": "50 mg"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "10.5 جم",
+      "en": "10.5 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "10.3 جم",
+      "en": "10.3 g"
+     },
+     "dv": "12%"
+    },
+    {
+     "label": {
+      "ar": "السكر المضاف",
+      "en": "Added sugars"
+     },
+     "amount": {
+      "ar": "5 جم",
+      "en": "5 g"
+     },
+     "dv": "10%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "2.9 جم",
+      "en": "2.9 g"
+     },
+     "dv": "6%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين أ",
+      "en": "Vitamin A"
+     },
+     "amount": {
+      "ar": "120 وحدة دولية",
+      "en": "120 IU"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين د",
+      "en": "Vitamin D"
+     },
+     "amount": {
+      "ar": "30 وحدة دولية",
+      "en": "30 IU"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "الكالسيوم",
+      "en": "Calcium"
+     },
+     "amount": {
+      "ar": "110 ملجم",
+      "en": "110 mg"
+     },
+     "dv": "11%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/كوفي-لاتيه-أورجينال-250-مل/"
+ },
+ {
+  "slug": "coffee-latte-hazelnut-vanilla-250ml",
+  "category": "barista-cafe",
+  "alsoIn": [],
+  "name": {
+   "ar": "كوفي لاتيه بندق و فانيلا 250 مل",
+   "en": "Coffee Latte Hazelnut & Vanilla 250 ml"
+  },
+  "nameEnSource": "flavour name printed in English on the pack and the Coffee Latte banner (checked visually)",
+  "size": {
+   "ar": "250 مل",
+   "en": "250 ml"
+  },
+  "image": "/assets/products/coffee-latte-hazelnut-vanilla-250ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء نقي، حليب بقري مجفف كامل الدسم، سكر، دكستروز مسحوق القهوة ، مستحلب مسموح به: إي 471 (مصدر نباتي)،مثبتات: (إي 407، إي 412)، نكهة البندق و الفانيلا المطابقة للطبيعية، نكهة قهوة الاسبريسو المطابقة للطبيعية، فيتامين أ و د .",
+    "دسم حليب: حد ادنى 3.0٪، مواد صلبة لا دهنية حد أدنى 8.5٪",
+    "محتوى الحليب: (حد أدنى 90%)"
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": null,
+   "noteAr": "* نسبة الإحتياج اليومي مبني على نظام غذائي مكون من 2000 سعرة حرارية. قد تكون النسبة الخاصة بك أعلى او أقل حسب السعرات الحرارية التي تحتاجها.",
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "81 سعرة",
+      "en": "81 kcal"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "3.0 جم",
+      "en": "3.0 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "2.0 جم",
+      "en": "2.0 g"
+     },
+     "dv": "10%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "15 ملجم",
+      "en": "15 mg"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "50 ملجم",
+      "en": "50 mg"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "10.5 جم",
+      "en": "10.5 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "10.3 جم",
+      "en": "10.3 g"
+     },
+     "dv": "12%"
+    },
+    {
+     "label": {
+      "ar": "السكر المضاف",
+      "en": "Added sugars"
+     },
+     "amount": {
+      "ar": "5 جم",
+      "en": "5 g"
+     },
+     "dv": "10%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "2.9 جم",
+      "en": "2.9 g"
+     },
+     "dv": "6%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين أ",
+      "en": "Vitamin A"
+     },
+     "amount": {
+      "ar": "120 وحدة دولية",
+      "en": "120 IU"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين د",
+      "en": "Vitamin D"
+     },
+     "amount": {
+      "ar": "30 وحدة دولية",
+      "en": "30 IU"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "الكالسيوم",
+      "en": "Calcium"
+     },
+     "amount": {
+      "ar": "110 ملجم",
+      "en": "110 mg"
+     },
+     "dv": "11%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/كوفي-لاتيه-بندق-و-فانيلا-250-مل/"
+ },
+ {
+  "slug": "coffee-latte-vanilla-250ml",
+  "category": "barista-cafe",
+  "alsoIn": [],
+  "name": {
+   "ar": "كوفي لاتيه فانيلا 250 مل",
+   "en": "Coffee Latte Vanilla 250 ml"
+  },
+  "nameEnSource": "flavour name printed in English on the pack and the Coffee Latte banner (checked visually)",
+  "size": {
+   "ar": "250 مل",
+   "en": "250 ml"
+  },
+  "image": "/assets/products/coffee-latte-vanilla-250ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء نقي، حليب بقري مجفف كامل الدسم، سكر، دكستروز، مسحوق القهوة، مستحلب مسموح به: إي 471 (مصدر نباتي)، مثبتات: (إي 407، إي 412)، نكهة الفانيلا المطابقة للطبيعية، نكهة قهوة الاسبريسو المطابقة للطبيعية، فيتامين أ و د.",
+    "دسم حليب: حد ادنى 3.0٪، مواد صلبة لا دهنية حد أدنى 8.5٪",
+    "محتوى الحليب: (حد أدنى 90%)"
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": null,
+   "noteAr": "* نسبة الإحتياج اليومي مبني على نظام غذائي مكون من 2000 سعرة حرارية. قد تكون النسبة الخاصة بك أعلى او أقل حسب السعرات الحرارية التي تحتاجها.",
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "81 سعرة",
+      "en": "81 kcal"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "3.0 جم",
+      "en": "3.0 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "2.0 جم",
+      "en": "2.0 g"
+     },
+     "dv": "10%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "15 ملجم",
+      "en": "15 mg"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "50 ملجم",
+      "en": "50 mg"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "10.5 جم",
+      "en": "10.5 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "10.3 جم",
+      "en": "10.3 g"
+     },
+     "dv": "12%"
+    },
+    {
+     "label": {
+      "ar": "السكر المضاف",
+      "en": "Added sugars"
+     },
+     "amount": {
+      "ar": "5 جم",
+      "en": "5 g"
+     },
+     "dv": "10%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "2.9 جم",
+      "en": "2.9 g"
+     },
+     "dv": "6%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين أ",
+      "en": "Vitamin A"
+     },
+     "amount": {
+      "ar": "120 وحدة دولية",
+      "en": "120 IU"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين د",
+      "en": "Vitamin D"
+     },
+     "amount": {
+      "ar": "30 وحدة دولية",
+      "en": "30 IU"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "الكالسيوم",
+      "en": "Calcium"
+     },
+     "amount": {
+      "ar": "110 ملجم",
+      "en": "110 mg"
+     },
+     "dv": "11%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/كوفي-لاتيه-فانيلا-250-مل/"
+ },
+ {
+  "slug": "coffee-latte-pistachio-250ml",
+  "category": "barista-cafe",
+  "alsoIn": [],
+  "name": {
+   "ar": "كوفي لاتيه فستق 250 مل",
+   "en": "Coffee Latte Pistachio 250 ml"
+  },
+  "nameEnSource": "flavour name printed in English on the pack and the Coffee Latte banner (checked visually)",
+  "size": {
+   "ar": "250 مل",
+   "en": "250 ml"
+  },
+  "image": "/assets/products/coffee-latte-pistachio-250ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء نقي، حليب بقري مجفف كامل الدسم، سكر، دكستروز، مسحوق القهوة، مستحلب مسموح به: إي 471 (مصدر نباتي)، مثبتات: (إي 407، إي 412)، نكهة الفستق المطابقة للطبيعية، نكهة قهوة الاسبريسو المطابقة للطبيعية، فيتامين أ و د.",
+    "دسم حليب: حد ادنى 3.0٪، مواد صلبة لا دهنية حد أدنى 8.5٪",
+    "محتوى الحليب: (حد أدنى 90%)"
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": null,
+   "noteAr": "* نسبة الإحتياج اليومي مبني على نظام غذائي مكون من 2000 سعرة حرارية. قد تكون النسبة الخاصة بك أعلى او أقل حسب السعرات الحرارية التي تحتاجها.",
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "81 سعرة",
+      "en": "81 kcal"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "3.0 جم",
+      "en": "3.0 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "2.0 جم",
+      "en": "2.0 g"
+     },
+     "dv": "10%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "15 ملجم",
+      "en": "15 mg"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "50 ملجم",
+      "en": "50 mg"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "10.5 جم",
+      "en": "10.5 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "10.3 جم",
+      "en": "10.3 g"
+     },
+     "dv": "12%"
+    },
+    {
+     "label": {
+      "ar": "السكر المضاف",
+      "en": "Added sugars"
+     },
+     "amount": {
+      "ar": "5 جم",
+      "en": "5 g"
+     },
+     "dv": "10%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "2.9 جم",
+      "en": "2.9 g"
+     },
+     "dv": "6%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين أ",
+      "en": "Vitamin A"
+     },
+     "amount": {
+      "ar": "120 وحدة دولية",
+      "en": "120 IU"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين د",
+      "en": "Vitamin D"
+     },
+     "amount": {
+      "ar": "30 وحدة دولية",
+      "en": "30 IU"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "الكالسيوم",
+      "en": "Calcium"
+     },
+     "amount": {
+      "ar": "110 ملجم",
+      "en": "110 mg"
+     },
+     "dv": "11%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/كوفي-لاتيه-فستق-250-مل/"
+ },
+ {
+  "slug": "coffee-latte-caramel-250ml",
+  "category": "barista-cafe",
+  "alsoIn": [],
+  "name": {
+   "ar": "كوفي لاتيه كراميل 250 مل",
+   "en": "Coffee Latte Caramel 250 ml"
+  },
+  "nameEnSource": "flavour name printed in English on the pack and the Coffee Latte banner (checked visually)",
+  "size": {
+   "ar": "250 مل",
+   "en": "250 ml"
+  },
+  "image": "/assets/products/coffee-latte-caramel-250ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء نقي، حليب بقري مجفف كامل الدسم، سكر، دكستروز، مسحوق القهوة، مستحلب مسموح به: إي 471 (مصدر نباتي)، مثبتات: (إي 407، إي 412)، نكهة الكراميل المطابقة للطبيعية، نكهة قهوة الاسبريسو المطابقة للطبيعية، فيتامين أ و د.",
+    "دسم حليب: حد ادنى 3.0٪، مواد صلبة لا دهنية حد أدنى 8.5٪",
+    "محتوى الحليب: (حد أدنى 90%)"
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": null,
+   "noteAr": "* نسبة الإحتياج اليومي مبني على نظام غذائي مكون من 2000 سعرة حرارية. قد تكون النسبة الخاصة بك أعلى او أقل حسب السعرات الحرارية التي تحتاجها.",
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "81 سعرة",
+      "en": "81 kcal"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "3.0 جم",
+      "en": "3.0 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "2.0 جم",
+      "en": "2.0 g"
+     },
+     "dv": "10%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "15 ملجم",
+      "en": "15 mg"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "50 ملجم",
+      "en": "50 mg"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "10.5 جم",
+      "en": "10.5 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "10.3 جم",
+      "en": "10.3 g"
+     },
+     "dv": "12%"
+    },
+    {
+     "label": {
+      "ar": "السكر المضاف",
+      "en": "Added sugars"
+     },
+     "amount": {
+      "ar": "5 جم",
+      "en": "5 g"
+     },
+     "dv": "10%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "2.9 جم",
+      "en": "2.9 g"
+     },
+     "dv": "6%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين أ",
+      "en": "Vitamin A"
+     },
+     "amount": {
+      "ar": "120 وحدة دولية",
+      "en": "120 IU"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين د",
+      "en": "Vitamin D"
+     },
+     "amount": {
+      "ar": "30 وحدة دولية",
+      "en": "30 IU"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "الكالسيوم",
+      "en": "Calcium"
+     },
+     "amount": {
+      "ar": "110 ملجم",
+      "en": "110 mg"
+     },
+     "dv": "11%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/كوفي-لاتيه-كراميل-250-مل/"
+ },
+ {
+  "slug": "coffee-latte-mocha-250ml",
+  "category": "barista-cafe",
+  "alsoIn": [],
+  "name": {
+   "ar": "كوفي لاتيه موكا 250 مل",
+   "en": "Coffee Latte Mocha 250 ml"
+  },
+  "nameEnSource": "flavour name printed in English on the pack and the Coffee Latte banner (checked visually)",
+  "size": {
+   "ar": "250 مل",
+   "en": "250 ml"
+  },
+  "image": "/assets/products/coffee-latte-mocha-250ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء نقي، حليب بقري مجفف كامل الدسم، سكر، دكستروز، مسحوق القهوة، مسحوق الكاكاو، مستحلب مسموح به: إي 471 (مصدر نباتي)، مثبتات: (إي 407، إي 412)، نكهة الشوكولاتة المطابقة للطبيعية، نكهة قهوة الاسبريسو المطابقة للطبيعية، فيتامين أ و د .",
+    "دسم حليب: حد ادنى 3.0٪، مواد صلبة لا دهنية حد أدنى 8.5٪",
+    "محتوى الحليب: (حد أدنى 90%)"
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": null,
+   "noteAr": "* نسبة الإحتياج اليومي مبني على نظام غذائي مكون من 2000 سعرة حرارية. قد تكون النسبة الخاصة بك أعلى او أقل حسب السعرات الحرارية التي تحتاجها.",
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "81 سعرة",
+      "en": "81 kcal"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "3.0 جم",
+      "en": "3.0 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "2.0 جم",
+      "en": "2.0 g"
+     },
+     "dv": "10%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "15 ملجم",
+      "en": "15 mg"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "50 ملجم",
+      "en": "50 mg"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "10.5 جم",
+      "en": "10.5 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "10.3 جم",
+      "en": "10.3 g"
+     },
+     "dv": "12%"
+    },
+    {
+     "label": {
+      "ar": "السكر المضاف",
+      "en": "Added sugars"
+     },
+     "amount": {
+      "ar": "5 جم",
+      "en": "5 g"
+     },
+     "dv": "10%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "2.9 جم",
+      "en": "2.9 g"
+     },
+     "dv": "6%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين أ",
+      "en": "Vitamin A"
+     },
+     "amount": {
+      "ar": "120 وحدة دولية",
+      "en": "120 IU"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين د",
+      "en": "Vitamin D"
+     },
+     "amount": {
+      "ar": "30 وحدة دولية",
+      "en": "30 IU"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "الكالسيوم",
+      "en": "Calcium"
+     },
+     "amount": {
+      "ar": "110 ملجم",
+      "en": "110 mg"
+     },
+     "dv": "11%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/كوفي-لاتيه-موكا-250-مل/"
+ },
+ {
+  "slug": "laban-with-butter-450ml",
+  "category": "dairy",
+  "alsoIn": [],
+  "name": {
+   "ar": "لبن بالزبدة 450 مل",
+   "en": "Laban with Butter 450 ml"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "450 مل",
+   "en": "450 ml"
+  },
+  "image": "/assets/products/laban-with-butter-450ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء نقي، مسحوق حليب البقر كامل الدسم، مسحوق مصل الحليب، زبدة الحليب، بكتين إي 440، خميرة."
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": null,
+   "noteAr": "* نسبة الإحتياج اليومي مبني على نظام غذائي مكون من 2000 سعرة حرارية. قد تكون النسبة الخاصة بك أعلى او أقل حسب السعرات الحرارية التي تحتاجها.",
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "58 سعرة",
+      "en": "58 kcal"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "3.0 جم",
+      "en": "3.0 g"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "2.0 جم",
+      "en": "2.0 g"
+     },
+     "dv": "10%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "8 مجلم",
+      "en": "8 mg"
+     },
+     "dv": "3%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "55 ملجم",
+      "en": "55 mg"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "4.8 جم",
+      "en": "4.8 g"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "4.8 جم",
+      "en": "4.8 g"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "السكر المضاف",
+      "en": "Added sugars"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "2.8 جم",
+      "en": "2.8 g"
+     },
+     "dv": "6%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين أ",
+      "en": "Vitamin A"
+     },
+     "amount": {
+      "ar": "120 وحدة دولية",
+      "en": "120 IU"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "الكالسيوم",
+      "en": "Calcium"
+     },
+     "amount": {
+      "ar": "110ملجم",
+      "en": "110mg"
+     },
+     "dv": "11%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/لبن-بالزبدة-450-مل/"
+ },
+ {
+  "slug": "laban-with-butter-900ml",
+  "category": "dairy",
+  "alsoIn": [],
+  "name": {
+   "ar": "لبن بالزبدة 900 مل",
+   "en": "Laban with Butter 900 ml"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "900 مل",
+   "en": "900 ml"
+  },
+  "image": "/assets/products/laban-with-butter-900ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء نقي، مسحوق حليب البقر كامل الدسم، مسحوق مصل الحليب، زبدة الحليب، بكتين إي 440، خميرة."
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": null,
+   "noteAr": "* نسبة الإحتياج اليومي مبني على نظام غذائي مكون من 2000 سعرة حرارية. قد تكون النسبة الخاصة بك أعلى او أقل حسب السعرات الحرارية التي تحتاجها.",
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "58 سعرة",
+      "en": "58 kcal"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "3.0 جم",
+      "en": "3.0 g"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "2.0 جم",
+      "en": "2.0 g"
+     },
+     "dv": "10%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "8 مجلم",
+      "en": "8 mg"
+     },
+     "dv": "3%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "55 ملجم",
+      "en": "55 mg"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "4.8 جم",
+      "en": "4.8 g"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "4.8 جم",
+      "en": "4.8 g"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "السكر المضاف",
+      "en": "Added sugars"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "2.8 جم",
+      "en": "2.8 g"
+     },
+     "dv": "6%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين أ",
+      "en": "Vitamin A"
+     },
+     "amount": {
+      "ar": "120 وحدة دولية",
+      "en": "120 IU"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "الكالسيوم",
+      "en": "Calcium"
+     },
+     "amount": {
+      "ar": "110ملجم",
+      "en": "110mg"
+     },
+     "dv": "11%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/لبن-بالزبدة-900-مل/"
+ },
+ {
+  "slug": "laban-180ml",
+  "category": "dairy",
+  "alsoIn": [],
+  "name": {
+   "ar": "لبن 180 مل",
+   "en": "Laban 180 ml"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "180مل",
+   "en": "180 ml"
+  },
+  "image": "/assets/products/laban-180ml.png",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء نقي، مسحوق حليب البقر كامل الدسم، بكتين (E440)، زبدة الحليب، خميرة.",
+    "الحد الأدنى للمحتوى الغذائي:",
+    "8.2٪ مواد صلبة غير دهنية من الحليب",
+    "3.0٪ دسم الحليب",
+    "حجم الحصة: 100 مل"
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": null,
+   "noteAr": "* نسبة الإحتياج اليومي مبني على نظام غذائي مكون من 2000 سعرة حرارية. قد تكون النسبة الخاصة بك أعلى او أقل حسب السعرات الحرارية التي تحتاجها.",
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "58 سعرة",
+      "en": "58 kcal"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "3.0 جم",
+      "en": "3.0 g"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "2.0 جم",
+      "en": "2.0 g"
+     },
+     "dv": "10%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "8 مجلم",
+      "en": "8 mg"
+     },
+     "dv": "3%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "55 ملجم",
+      "en": "55 mg"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "4.8 جم",
+      "en": "4.8 g"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "4.8 جم",
+      "en": "4.8 g"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "السكر المضاف",
+      "en": "Added sugars"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "2.8 جم",
+      "en": "2.8 g"
+     },
+     "dv": "6%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين أ",
+      "en": "Vitamin A"
+     },
+     "amount": {
+      "ar": "120 وحدة دولية",
+      "en": "120 IU"
+     },
+     "dv": "2%"
+    },
+    {
+     "label": {
+      "ar": "الكالسيوم",
+      "en": "Calcium"
+     },
+     "amount": {
+      "ar": "110ملجم",
+      "en": "110mg"
+     },
+     "dv": "11%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/لبن-180-مل/"
+ },
+ {
+  "slug": "ice-cream-mix-yellow-melon",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم البطيخ الأصفر",
+   "en": "Ice Cream Mix – Cantaloupe"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-yellow-melon.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-البطيخ-الأصفر/"
+ },
+ {
+  "slug": "ice-cream-mix-watermelon",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم البطيخ",
+   "en": "Ice Cream Mix – Watermelon"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-watermelon.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-البطيخ/"
+ },
+ {
+  "slug": "ice-cream-mix-hazelnut",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم البندق",
+   "en": "Ice Cream Mix – Hazelnut"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-hazelnut.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-البندق/"
+ },
+ {
+  "slug": "ice-cream-mix-berry",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم التوت",
+   "en": "Ice Cream Mix – Berry"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-berry.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-التوت/"
+ },
+ {
+  "slug": "ice-cream-mix-saffron",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم الزعفران",
+   "en": "Ice Cream Mix – Saffron"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-saffron.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-الزعفران/"
+ },
+ {
+  "slug": "ice-cream-mix-black-vanilla",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم الفانيليا السوداء",
+   "en": "Ice Cream Mix – Black Vanilla"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-black-vanilla.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-الفانيليا-السوداء/"
+ },
+ {
+  "slug": "ice-cream-mix-pistachio",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم الفستق",
+   "en": "Ice Cream Mix – Pistachio"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-pistachio.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-الفستق/"
+ },
+ {
+  "slug": "ice-cream-mix-mango",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم المانجو",
+   "en": "Ice Cream Mix – Mango"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-mango.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-المانجو/"
+ },
+ {
+  "slug": "ice-cream-mix-butterscotch",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم بترسكوتش",
+   "en": "Ice Cream Mix – Butterscotch"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-butterscotch.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-بترسكوتش/"
+ },
+ {
+  "slug": "ice-cream-mix-biscuit",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم بسكويت",
+   "en": "Ice Cream Mix – Biscuit"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-biscuit.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-بسكويت/"
+ },
+ {
+  "slug": "ice-cream-mix-arabic-booza",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم بوظة عربية",
+   "en": "Ice Cream Mix – Arabic Booza"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-arabic-booza.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-بوظة-عربية/"
+ },
+ {
+  "slug": "ice-cream-mix-cheesecake",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم تشيزكيك",
+   "en": "Ice Cream Mix – Cheesecake"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-cheesecake.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-تشيزكيك/"
+ },
+ {
+  "slug": "ice-cream-mix-tiramisu",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم تيراميسو",
+   "en": "Ice Cream Mix – Tiramisu"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-tiramisu.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-تيراميسو/"
+ },
+ {
+  "slug": "ice-cream-mix-cotton-candy-2",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم حلوى القطن",
+   "en": "Ice Cream Mix – Cotton Candy"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-cotton-candy-2.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-حلوى-القطن-2/"
+ },
+ {
+  "slug": "ice-cream-mix-cotton-candy",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم حلوى القطن",
+   "en": "Ice Cream Mix – Cotton Candy"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-cotton-candy.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-حلوى-القطن/"
+ },
+ {
+  "slug": "ice-cream-mix-red-berry",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم ريد بيري",
+   "en": "Ice Cream Mix – Raspberry"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-red-berry.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-ريد-بيري/"
+ },
+ {
+  "slug": "ice-cream-mix-red-velvet",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم ريد فلفت",
+   "en": "Ice Cream Mix – Red Velvet"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-red-velvet.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-ريد-فلفت/"
+ },
+ {
+  "slug": "ice-cream-mix-chocolate",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم شوكولاتة",
+   "en": "Ice Cream Mix – Chocolate"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-chocolate.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-شوكولاتة/"
+ },
+ {
+  "slug": "ice-cream-mix-vanilla",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم فانيلا",
+   "en": "Ice Cream Mix – Vanilla"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-vanilla.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-فانيلا/"
+ },
+ {
+  "slug": "ice-cream-mix-strawberry",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم فراولة",
+   "en": "Ice Cream Mix – Strawberry"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-strawberry.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-فراولة/"
+ },
+ {
+  "slug": "ice-cream-mix-saudi-coffee",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم قهوة سعودية",
+   "en": "Ice Cream Mix – Saudi Coffee"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-saudi-coffee.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-قهوة-سعودية/"
+ },
+ {
+  "slug": "ice-cream-mix-coffee",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم قهوة",
+   "en": "Ice Cream Mix – Coffee"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-coffee.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-قهوة/"
+ },
+ {
+  "slug": "ice-cream-mix-caramel",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم كراميل",
+   "en": "Ice Cream Mix – Caramel"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-caramel.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-كراميل/"
+ },
+ {
+  "slug": "ice-cream-mix-cookies",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم كوكيز",
+   "en": "Ice Cream Mix – Cookies"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-cookies.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-كوكيز/"
+ },
+ {
+  "slug": "ice-cream-mix-mastic",
+  "category": "ice-cream-mix",
+  "alsoIn": [],
+  "name": {
+   "ar": "مزيج آيس كريم مستكا",
+   "en": "Ice Cream Mix – Mastic"
+  },
+  "nameEnSource": "flavour name printed in English on the original pack (checked visually); 'Ice Cream Mix' prefix also on pack",
+  "size": {
+   "ar": "1 لتر",
+   "en": "1 L"
+  },
+  "image": "/assets/products/ice-cream-mix-mastic.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/مزيج-آيس-كريم-مستكا/"
+ },
+ {
+  "slug": "tomato-paste",
+  "category": "tomato-paste",
+  "alsoIn": [],
+  "name": {
+   "ar": "معجون طماطم",
+   "en": "Tomato Paste"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "135 جم",
+   "en": "135 g"
+  },
+  "image": "/assets/products/tomato-paste.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "مركز معجون الطماطم الطبيعي، ماء نقي، ملح (الحد الأعلى 1.0٪) مواد صلبة قابلة للذوبان (22-24%)"
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": null,
+   "noteAr": "* نسبة الإحتياج اليومي مبني على نظام غذائي مكون من 2000 سعرة حرارية. قد تكون النسبة الخاصة بك أعلى او أقل حسب السعرات الحرارية التي تحتاجها.",
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "86 سعرة",
+      "en": "86 kcal"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "0.2 جم",
+      "en": "0.2 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "0 ملجم",
+      "en": "0 mg"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "270 ملجم",
+      "en": "270 mg"
+     },
+     "dv": "11%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "17.0 جم",
+      "en": "17.0 g"
+     },
+     "dv": "7%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "2.5 جم",
+      "en": "2.5 g"
+     },
+     "dv": "10%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "10.4 جم",
+      "en": "10.4 g"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "السكر المضاف",
+      "en": "Added sugars"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "3.5 جم",
+      "en": "3.5 g"
+     },
+     "dv": "7%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/معجون-طماطم/"
+ },
+ {
+  "slug": "pineapple-nectar-200ml",
+  "category": "nectar",
+  "alsoIn": [
+   "juices"
+  ],
+  "name": {
+   "ar": "نكتار الأناناس 200 مل",
+   "en": "Pineapple Nectar 200 ml"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "200 مل",
+   "en": "200 ml"
+  },
+  "image": "/assets/products/pineapple-nectar-200ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء نقي، مركز عصير الاناناس، سكر، حمض الستريك، حمض الاسكوربيك، صمغ الزانتان (إي 415)، كربوكسي ميثيل السليلوز (إي 466)، نكهة الاناناس المطابقة للطبيعية.",
+    "مصنوع من مركز العصير مع سكر مضاف",
+    "محتوى العصير: 50%",
+    "مبستر و معبأ بطريقة معقمة"
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": "حجم الحصة 100 مل",
+   "noteAr": "* نسبة الإحتياج اليومي مبني على نظام غذائي مكون من 2000 سعرة حرارية. قد تكون النسبة الخاصة بك أعلى او أقل حسب السعرات الحرارية التي تحتاجها.",
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "40 سعرة",
+      "en": "40 kcal"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "0 ملجم",
+      "en": "0 mg"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "5 ملجم",
+      "en": "5 mg"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "10.0 جم",
+      "en": "10.0 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "9.5 جم",
+      "en": "9.5 g"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "تشمل السكر المضاف",
+      "en": "Includes added sugars"
+     },
+     "amount": {
+      "ar": "4.5 جم",
+      "en": "4.5 g"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين سي",
+      "en": "Vitamin C"
+     },
+     "amount": {
+      "ar": "10 ملجم",
+      "en": "10 mg"
+     },
+     "dv": "10%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/نكتار-الأناناس-200-مل/"
+ },
+ {
+  "slug": "orange-nectar-200ml",
+  "category": "nectar",
+  "alsoIn": [
+   "juices"
+  ],
+  "name": {
+   "ar": "نكتار البرتقال 200 مل",
+   "en": "Orange Nectar 200 ml"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "200 مل",
+   "en": "200 ml"
+  },
+  "image": "/assets/products/orange-nectar-200ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء نقي، مركز عصير البرتقال، سكر، حمض الستريك، حمض الاسكوربيك، صمغ الزانتان (إي 415)، كربوكسي ميثيل السليلوز (إي 466)، نكهة برتقال طبيعية و مطابقة للطبيعية، لون بيتا كاروتين.",
+    "مصنوع من مركز العصير مع سكر مضاف",
+    "محتوى العصير: 50%",
+    "مبستر و معبأ بطريقة معقمة"
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": "حجم الحصة 100 مل",
+   "noteAr": "* نسبة الإحتياج اليومي مبني على نظام غذائي مكون من 2000 سعرة حرارية. قد تكون النسبة الخاصة بك أعلى او أقل حسب السعرات الحرارية التي تحتاجها.",
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "40 سعرة",
+      "en": "40 kcal"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "0 ملجم",
+      "en": "0 mg"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "5 ملجم",
+      "en": "5 mg"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "10.0 جم",
+      "en": "10.0 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "9.5 جم",
+      "en": "9.5 g"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "تشمل السكر المضاف",
+      "en": "Includes added sugars"
+     },
+     "amount": {
+      "ar": "4.5 جم",
+      "en": "4.5 g"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين سي",
+      "en": "Vitamin C"
+     },
+     "amount": {
+      "ar": "10 ملجم",
+      "en": "10 mg"
+     },
+     "dv": "10%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/نكتار-البرتقال-200-مل/"
+ },
+ {
+  "slug": "apple-nectar-200ml",
+  "category": "nectar",
+  "alsoIn": [
+   "juices"
+  ],
+  "name": {
+   "ar": "نكتار التفاح 200 مل",
+   "en": "Apple Nectar 200 ml"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "200 مل",
+   "en": "200 ml"
+  },
+  "image": "/assets/products/apple-nectar-200ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء نقي، مركز عصير التفاح، سكر، حمض الستريك، حمض الاسكوربيك، نكهة التفاح المطابقة للطبيعية، صمغ الزانتان (إي 415)، كربوكسي ميثيل السليلوز (إي 466)،",
+    "لون كراميل سائل (إي 150 دي).",
+    "مصنوع من مركز العصير مع سكر مضاف",
+    "محتوى العصير: 50%",
+    "مبستر و معبأ بطريقة معقمة"
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": "حجم الحصة 100 مل",
+   "noteAr": "* نسبة الإحتياج اليومي مبني على نظام غذائي مكون من 2000 سعرة حرارية. قد تكون النسبة الخاصة بك أعلى او أقل حسب السعرات الحرارية التي تحتاجها.",
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "40 سعرة",
+      "en": "40 kcal"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "0 ملجم",
+      "en": "0 mg"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "5 ملجم",
+      "en": "5 mg"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "10.0 جم",
+      "en": "10.0 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "9.5 جم",
+      "en": "9.5 g"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "تشمل السكر المضاف",
+      "en": "Includes added sugars"
+     },
+     "amount": {
+      "ar": "4.5 جم",
+      "en": "4.5 g"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين سي",
+      "en": "Vitamin C"
+     },
+     "amount": {
+      "ar": "10 ملجم",
+      "en": "10 mg"
+     },
+     "dv": "10%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/نكتار-التفاح-200-مل/"
+ },
+ {
+  "slug": "cocktail-nectar-200ml",
+  "category": "nectar",
+  "alsoIn": [
+   "juices"
+  ],
+  "name": {
+   "ar": "نكتار الكوكتيل 200 مل",
+   "en": "Cocktail Nectar 200 ml"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "200 مل",
+   "en": "200 ml"
+  },
+  "image": "/assets/products/cocktail-nectar-200ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء نقي، مركز عصير الفاكهة ( مانجو، برتقال، تفاح، جوافة و عنب احمر)، سكر، حمض الستريك، حمض الاسكوربيك، صمغ الزانتان (إي 415) ، كربوكسي ميثيل السليلوز (إي 466)، نكهة الفاكهة المشكلة المطابقة للطبيعية، لون شمندر، لون بيتاكاروتين.",
+    "مصنوع من مركز العصير مع سكر مضاف",
+    "محتوى العصير: 50%",
+    "مبستر و معبأ بطريقة معقمة"
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": "حجم الحصة 100 مل",
+   "noteAr": "* نسبة الإحتياج اليومي مبني على نظام غذائي مكون من 2000 سعرة حرارية. قد تكون النسبة الخاصة بك أعلى او أقل حسب السعرات الحرارية التي تحتاجها.",
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "40 سعرة",
+      "en": "40 kcal"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "0 ملجم",
+      "en": "0 mg"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "5 ملجم",
+      "en": "5 mg"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "10.0 جم",
+      "en": "10.0 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "9.5 جم",
+      "en": "9.5 g"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "تشمل السكر المضاف",
+      "en": "Includes added sugars"
+     },
+     "amount": {
+      "ar": "4.5 جم",
+      "en": "4.5 g"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين سي",
+      "en": "Vitamin C"
+     },
+     "amount": {
+      "ar": "10 ملجم",
+      "en": "10 mg"
+     },
+     "dv": "10%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/نكتار-الكوكتيل-200-مل/"
+ },
+ {
+  "slug": "mango-nectar-200ml",
+  "category": "nectar",
+  "alsoIn": [
+   "juices"
+  ],
+  "name": {
+   "ar": "نكتار المانجو 200 مل",
+   "en": "Mango Nectar 200 ml"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "200 مل",
+   "en": "200 ml"
+  },
+  "image": "/assets/products/mango-nectar-200ml.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": [
+    "ماء نقي، لب مانجو طبيعي، سكر، صمغ الزانتان (إي 415)، كربوكسي ميثيل السليلوز (إي 466)، نكهة المانجو المطابقة للطبيعية، حمض الستريك، حمض الاسكوربيك ، لون بيتاكاروتين.",
+    "مصنوع من مركز لب المانجو مع سكر مضاف",
+    "محتوى العصير: 50%",
+    "مبستر و معبأ بطريقة معقمة"
+   ]
+  },
+  "nutrition": {
+   "status": "published",
+   "servingAr": "حجم الحصة 100 مل",
+   "noteAr": "* نسبة الإحتياج اليومي مبني على نظام غذائي مكون من 2000 سعرة حرارية. قد تكون النسبة الخاصة بك أعلى او أقل حسب السعرات الحرارية التي تحتاجها.",
+   "rows": [
+    {
+     "label": {
+      "ar": "السعرات الحرارية",
+      "en": "Calories"
+     },
+     "amount": {
+      "ar": "40 سعرة",
+      "en": "40 kcal"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "إجمالي الدهون",
+      "en": "Total fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المشبعة",
+      "en": "Saturated fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الدهون المتحولة",
+      "en": "Trans fat"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الكوليسترول",
+      "en": "Cholesterol"
+     },
+     "amount": {
+      "ar": "0 ملجم",
+      "en": "0 mg"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "الصوديوم",
+      "en": "Sodium"
+     },
+     "amount": {
+      "ar": "5 ملجم",
+      "en": "5 mg"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي الكربوهيدرات",
+      "en": "Total carbohydrates"
+     },
+     "amount": {
+      "ar": "10.0 جم",
+      "en": "10.0 g"
+     },
+     "dv": "4%"
+    },
+    {
+     "label": {
+      "ar": "الألياف الغذائية",
+      "en": "Dietary fibre"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "إجمالي السكر",
+      "en": "Total sugars"
+     },
+     "amount": {
+      "ar": "9.5 جم",
+      "en": "9.5 g"
+     },
+     "dv": null
+    },
+    {
+     "label": {
+      "ar": "تشمل السكر المضاف",
+      "en": "Includes added sugars"
+     },
+     "amount": {
+      "ar": "4.5 جم",
+      "en": "4.5 g"
+     },
+     "dv": "5%"
+    },
+    {
+     "label": {
+      "ar": "البروتين",
+      "en": "Protein"
+     },
+     "amount": {
+      "ar": "0 جم",
+      "en": "0 g"
+     },
+     "dv": "0%"
+    },
+    {
+     "label": {
+      "ar": "فيتامين سي",
+      "en": "Vitamin C"
+     },
+     "amount": {
+      "ar": "10 ملجم",
+      "en": "10 mg"
+     },
+     "dv": "10%"
+    }
+   ]
+  },
+  "source": "https://alraifood.com/product/نكتار-المانجو-200-مل/"
+ },
+ {
+  "slug": "tomato-puree",
+  "category": "tomato-paste",
+  "alsoIn": [],
+  "name": {
+   "ar": "هريس الطماطم",
+   "en": "Tomato Purée"
+  },
+  "nameEnSource": "editorial-translation (pending client approval)",
+  "size": {
+   "ar": "135 جم",
+   "en": "135 g"
+  },
+  "image": "/assets/products/tomato-puree.jpg",
+  "description": {
+   "ar": []
+  },
+  "ingredients": {
+   "ar": []
+  },
+  "nutrition": {
+   "status": "suppressed-template-copy",
+   "servingAr": null,
+   "noteAr": null,
+   "rows": []
+  },
+  "source": "https://alraifood.com/product/هريس-الطماطم/"
+ }
+]

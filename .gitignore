@@ -1,0 +1,15 @@
+node_modules
+.next
+out
+next-env.d.ts
+*.tsbuildinfo
+qa/test-results
+.env*
+.audit
+qa/screenshots
+qa/bg-system/*.png
+qa/bg-system/*.webp
+qa/bg-system/*.jpg
+qa/results*.json
+*.log
+qa/bg-system/*/
